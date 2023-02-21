@@ -1,3 +1,4 @@
 *.pptx
 *answers*
 */.ipynb_checkpoints/*
+students_notebooks/
